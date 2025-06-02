@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Demand Heatmap 📊</title>
+    <link rel="stylesheet" href="./heatmap.css">
+</head>
+<body>
+    <h1>Estimated Industrial Crop Demand by Location</h1>
+    <p class="description">
+        This heatmap displays the estimated industrial demand for various crops across different locations.
+        Scores range from 0 (Low Demand) to 5 (High Demand).
+        The table is scrollable if the content exceeds the viewport.
+    </p>
+
+    <div id="heatmap-container">
+        </div>
+
+    <div class="legend">
+        <p>Demand Score (0-Low, 5-High):</p>
+        <div>
+            <span class="score-legend score-0">0</span>
+            <span class="score-legend score-1">1</span>
+            <span class="score-legend score-2">2</span>
+            <span class="score-legend score-3">3</span>
+            <span class="score-legend score-4">4</span>
+            <span class="score-legend score-5">5</span>
+        </div>
+    </div>
+
+    <script src="./heatmap.js"></script>
+</body>
+</html>

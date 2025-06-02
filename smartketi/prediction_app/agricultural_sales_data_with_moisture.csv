@@ -1,0 +1,1001 @@
+Location_Name,Latitude,Longitude,Crop_Name,Price_per_Quintal,Quantity_Sold_Quintal,Moisture_Content,Year,Month,Total_Sale_Value
+"Meerut, Uttar Pradesh",28.9845,77.7064,Groundnut,6377,238,5,2021,1,505908.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Mustard,5650,51,5,2021,2,96050.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Safflower,5800,59,10,2021,3,114066.67
+"Panipat, Haryana",29.3909,76.9635,Bajra,2500,39,25,2021,4,32500.0
+"Gurugram, Haryana",28.4595,77.0266,Groundnut,6377,64,4,2021,5,136042.67
+"Palwal, Haryana",28.1487,77.332,Groundnut,6377,31,25,2021,6,65895.67
+"Rohtak, Haryana",28.8955,76.6066,Paddy (Common),2183,73,40,2021,7,53119.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Hybrid),3180,49,8,2021,8,51940.0
+"Gurugram, Haryana",28.4595,77.0266,Barley,1850,41,3,2021,9,25283.33
+"Panipat, Haryana",29.3909,76.9635,Gram (Chana),5440,42,10,2021,10,76160.0
+"Faridabad, Haryana",28.4112,77.3132,Urad,6950,288,9,2021,11,667200.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Wheat,2275,62,13,2021,12,47016.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Mustard,5650,63,9,2022,1,118650.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Gram (Chana),5440,38,25,2022,2,68906.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,29,12,2022,3,62108.33
+"Faridabad, Haryana",28.4112,77.3132,Safflower,5800,201,40,2022,4,388600.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Urad,6950,43,40,2022,5,99616.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Maldandi),3225,57,21,2022,6,61275.0
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Medium Staple),6620,32,13,2022,7,70613.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Barley,1850,270,13,2022,8,166500.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Lentil (Masur),6425,32,20,2022,9,68533.33
+"Palwal, Haryana",28.1487,77.332,Maize,2090,187,9,2022,10,130276.67
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Hybrid),3180,112,12,2022,11,118720.0
+"Jhajjar, Haryana",28.6061,76.6565,Gram (Chana),5440,62,23,2022,12,112426.67
+"Jhajjar, Haryana",28.6061,76.6565,Wheat,2275,24,20,2023,1,18200.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Safflower,5800,58,24,2023,2,112133.33
+"Jhajjar, Haryana",28.6061,76.6565,Mustard,5650,12,38,2023,3,22600.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Safflower,5800,280,20,2023,4,541333.33
+"Palwal, Haryana",28.1487,77.332,Jowar (Maldandi),3225,26,26,2023,5,27950.0
+"Jhajjar, Haryana",28.6061,76.6565,Moong,8558,14,17,2023,6,39937.33
+"Gurugram, Haryana",28.4595,77.0266,Safflower,5800,205,18,2023,7,396333.33
+"Jhajjar, Haryana",28.6061,76.6565,Moong,8558,51,13,2023,8,145486.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Safflower,5800,51,34,2023,9,98600.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Urad,6950,168,6,2023,10,389200.0
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Medium Staple),6620,186,21,2023,11,410440.0
+"Faridabad, Haryana",28.4112,77.3132,Moong,8558,249,11,2023,12,710314.0
+"Karnal, Haryana",29.6857,76.9905,Barley,1850,16,1,2024,1,9866.67
+"Panipat, Haryana",29.3909,76.9635,Bajra,2500,173,32,2024,2,144166.67
+"Sonipat, Haryana",28.9288,77.091,Bajra,2500,48,1,2024,3,40000.0
+"Karnal, Haryana",29.6857,76.9905,Paddy (Common),2183,56,35,2024,4,40749.33
+"Palwal, Haryana",28.1487,77.332,Jowar (Maldandi),3225,65,31,2024,5,69875.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Mustard,5650,135,14,2024,6,254250.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Cotton (Medium Staple),6620,63,25,2024,7,139020.0
+"Karnal, Haryana",29.6857,76.9905,Lentil (Masur),6425,214,28,2024,8,458316.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Jowar (Maldandi),3225,27,1,2024,9,29025.0
+"Sonipat, Haryana",28.9288,77.091,Sugarcane,355,311,37,2024,10,36801.67
+"Panipat, Haryana",29.3909,76.9635,Moong,8558,75,37,2024,11,213950.0
+"Sonipat, Haryana",28.9288,77.091,Paddy (Common),2183,103,32,2024,12,74949.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Gram (Chana),5440,37,19,2021,1,67093.33
+"Panipat, Haryana",29.3909,76.9635,Bajra,2500,251,21,2021,2,209166.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Sugarcane,355,343,36,2021,3,40588.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Cotton (Long Staple),7020,21,19,2021,4,49140.0
+"Karnal, Haryana",29.6857,76.9905,Gram (Chana),5440,227,5,2021,5,411626.67
+"Palwal, Haryana",28.1487,77.332,Mustard,5650,214,26,2021,6,403033.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Barley,1850,139,36,2021,7,85716.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,42,31,2021,8,92680.0
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Common),2183,44,33,2021,9,32017.33
+"Rohtak, Haryana",28.8955,76.6066,Lentil (Masur),6425,36,18,2021,10,77100.0
+"Gurugram, Haryana",28.4595,77.0266,Bajra,2500,223,21,2021,11,185833.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Bajra,2500,94,25,2021,12,78333.33
+"Rewari, Haryana",28.1972,76.6172,Safflower,5800,10,22,2022,1,19333.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Common),2183,95,30,2022,2,69128.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Maize,2090,60,33,2022,3,41800.0
+"Faridabad, Haryana",28.4112,77.3132,Wheat,2275,238,25,2022,4,180483.33
+"Rohtak, Haryana",28.8955,76.6066,Barley,1850,70,31,2022,5,43166.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Urad,6950,34,11,2022,6,78766.67
+"Gohana, Haryana",29.1366,76.6943,Maize,2090,70,20,2022,7,48766.67
+"Faridabad, Haryana",28.4112,77.3132,Wheat,2275,237,36,2022,8,179725.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Safflower,5800,67,32,2022,9,129533.33
+"Sonipat, Haryana",28.9288,77.091,Bajra,2500,205,28,2022,10,170833.33
+"Rohtak, Haryana",28.8955,76.6066,Safflower,5800,64,39,2022,11,123733.33
+"Gohana, Haryana",29.1366,76.6943,Cotton (Long Staple),7020,251,16,2022,12,587340.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Paddy (Common),2183,72,14,2023,1,52392.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Groundnut,6377,170,12,2023,2,361363.33
+"Gurugram, Haryana",28.4595,77.0266,Mustard,5650,62,21,2023,3,116766.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Cotton (Medium Staple),6620,73,11,2023,4,161086.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,38,15,2023,5,83853.33
+"Faridabad, Haryana",28.4112,77.3132,Mustard,5650,109,39,2023,6,205283.33
+"Rohtak, Haryana",28.8955,76.6066,Moong,8558,33,9,2023,7,94138.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Maize,2090,58,7,2023,8,40406.67
+"Karnal, Haryana",29.6857,76.9905,Wheat,2275,21,39,2023,9,15925.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Barley,1850,35,15,2023,10,21583.33
+"Faridabad, Haryana",28.4112,77.3132,Urad,6950,246,17,2023,11,569900.0
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Medium Staple),6620,182,16,2023,12,401613.33
+"Panipat, Haryana",29.3909,76.9635,Jowar (Hybrid),3180,165,33,2024,1,174900.0
+"Rewari, Haryana",28.1972,76.6172,Safflower,5800,31,8,2024,2,59933.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Long Staple),7020,33,32,2024,3,77220.0
+"Karnal, Haryana",29.6857,76.9905,Bajra,2500,37,21,2024,4,30833.33
+"Panipat, Haryana",29.3909,76.9635,Cotton (Medium Staple),6620,76,30,2024,5,167706.67
+"Gurugram, Haryana",28.4595,77.0266,Maize,2090,57,34,2024,6,39710.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Urad,6950,68,26,2024,7,157533.33
+"Faridabad, Haryana",28.4112,77.3132,Barley,1850,99,31,2024,8,61050.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Barley,1850,40,32,2024,9,24666.67
+"Gurugram, Haryana",28.4595,77.0266,Barley,1850,52,15,2024,10,32066.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Jowar (Maldandi),3225,278,38,2024,11,298850.0
+"Faridabad, Haryana",28.4112,77.3132,Moong,8558,162,40,2024,12,462132.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Long Staple),7020,229,5,2021,1,535860.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Maldandi),3225,89,33,2021,2,95675.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Common),2183,70,18,2021,3,50936.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Maize,2090,56,21,2021,4,39013.33
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Maldandi),3225,59,12,2021,5,63425.0
+"Jhajjar, Haryana",28.6061,76.6565,Urad,6950,26,21,2021,6,60233.33
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,43,21,2021,7,100333.33
+"Rewari, Haryana",28.1972,76.6172,Safflower,5800,90,6,2021,8,174000.0
+"Karnal, Haryana",29.6857,76.9905,Groundnut,6377,78,10,2021,9,165802.0
+"Karnal, Haryana",29.6857,76.9905,Sugarcane,355,213,13,2021,10,25205.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Hybrid),3180,101,32,2021,11,107060.0
+"Palwal, Haryana",28.1487,77.332,Jowar (Maldandi),3225,148,40,2021,12,159100.0
+"Rohtak, Haryana",28.8955,76.6066,Urad,6950,126,19,2022,1,291900.0
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Long Staple),7020,194,18,2022,2,453960.0
+"Rohtak, Haryana",28.8955,76.6066,Bajra,2500,30,30,2022,3,25000.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Common),2183,29,33,2022,4,21102.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Sugarcane,355,49,5,2022,5,5798.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Paddy (Grade A),2203,31,21,2022,6,22764.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Moong,8558,49,40,2022,7,139780.67
+"Rewari, Haryana",28.1972,76.6172,Sugarcane,355,90,21,2022,8,10650.0
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Grade A),2203,24,28,2022,9,17624.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Jowar (Maldandi),3225,90,8,2022,10,96750.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Cotton (Long Staple),7020,100,1,2022,11,234000.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Bajra,2500,122,5,2022,12,101666.67
+"Karnal, Haryana",29.6857,76.9905,Urad,6950,251,26,2023,1,581483.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Jowar (Hybrid),3180,264,0,2023,2,279840.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Safflower,5800,65,40,2023,3,125666.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Bajra,2500,67,21,2023,4,55833.33
+"Palwal, Haryana",28.1487,77.332,Arhar (Tur),7000,20,15,2023,5,46666.67
+"Gohana, Haryana",29.1366,76.6943,Mustard,5650,89,32,2023,6,167616.67
+"Palwal, Haryana",28.1487,77.332,Lentil (Masur),6425,165,17,2023,7,353375.0
+"Gurugram, Haryana",28.4595,77.0266,Cotton (Long Staple),7020,69,23,2023,8,161460.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Urad,6950,32,19,2023,9,74133.33
+"Panipat, Haryana",29.3909,76.9635,Groundnut,6377,268,24,2023,10,569678.67
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,195,33,2023,11,451750.0
+"Karnal, Haryana",29.6857,76.9905,Urad,6950,267,6,2023,12,618550.0
+"Karnal, Haryana",29.6857,76.9905,Jowar (Maldandi),3225,74,34,2024,1,79550.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Wheat,2275,48,22,2024,2,36400.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Barley,1850,31,18,2024,3,19116.67
+"Gohana, Haryana",29.1366,76.6943,Safflower,5800,144,8,2024,4,278400.0
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Maldandi),3225,59,30,2024,5,63425.0
+"Rewari, Haryana",28.1972,76.6172,Cotton (Long Staple),7020,61,2,2024,6,142740.0
+"Panipat, Haryana",29.3909,76.9635,Safflower,5800,79,26,2024,7,152733.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Paddy (Common),2183,42,8,2024,8,30562.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Maize,2090,76,16,2024,9,52946.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Bajra,2500,70,11,2024,10,58333.33
+"Palwal, Haryana",28.1487,77.332,Jowar (Hybrid),3180,163,21,2024,11,172780.0
+"Panipat, Haryana",29.3909,76.9635,Sugarcane,355,306,31,2024,12,36210.0
+"Faridabad, Haryana",28.4112,77.3132,Safflower,5800,64,20,2021,1,123733.33
+"Palwal, Haryana",28.1487,77.332,Maize,2090,128,32,2021,2,89173.33
+"Karnal, Haryana",29.6857,76.9905,Urad,6950,38,3,2021,3,88033.33
+"Jhajjar, Haryana",28.6061,76.6565,Barley,1850,147,18,2021,4,90650.0
+"Rewari, Haryana",28.1972,76.6172,Cotton (Medium Staple),6620,19,22,2021,5,41926.67
+"Gohana, Haryana",29.1366,76.6943,Safflower,5800,166,17,2021,6,320933.33
+"Rohtak, Haryana",28.8955,76.6066,Jowar (Maldandi),3225,64,37,2021,7,68800.0
+"Panipat, Haryana",29.3909,76.9635,Sugarcane,355,97,30,2021,8,11478.33
+"Karnal, Haryana",29.6857,76.9905,Safflower,5800,56,28,2021,9,108266.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Moong,8558,91,10,2021,10,259592.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Bajra,2500,129,15,2021,11,107500.0
+"Rohtak, Haryana",28.8955,76.6066,Jowar (Hybrid),3180,243,33,2021,12,257580.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Jowar (Maldandi),3225,205,17,2022,1,220375.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Groundnut,6377,210,1,2022,2,446390.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Cotton (Medium Staple),6620,29,24,2022,3,63993.33
+"Gurugram, Haryana",28.4595,77.0266,Paddy (Grade A),2203,69,40,2022,4,50669.0
+"Palwal, Haryana",28.1487,77.332,Sugarcane,355,79,16,2022,5,9348.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Bajra,2500,34,20,2022,6,28333.33
+"Faridabad, Haryana",28.4112,77.3132,Barley,1850,96,27,2022,7,59200.0
+"Panipat, Haryana",29.3909,76.9635,Maize,2090,39,19,2022,8,27170.0
+"Panipat, Haryana",29.3909,76.9635,Lentil (Masur),6425,41,37,2022,9,87808.33
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Medium Staple),6620,287,16,2022,10,633313.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Maize,2090,85,38,2022,11,59216.67
+"Jhajjar, Haryana",28.6061,76.6565,Groundnut,6377,233,4,2022,12,495280.33
+"Gohana, Haryana",29.1366,76.6943,Wheat,2275,26,24,2023,1,19716.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Jowar (Maldandi),3225,106,31,2023,2,113950.0
+"Rohtak, Haryana",28.8955,76.6066,Paddy (Grade A),2203,73,25,2023,3,53606.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Jowar (Hybrid),3180,58,24,2023,4,61480.0
+"Karnal, Haryana",29.6857,76.9905,Moong,8558,48,20,2023,5,136928.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Sugarcane,355,38,22,2023,6,4496.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Sugarcane,355,75,1,2023,7,8875.0
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,128,16,2023,8,274133.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Barley,1850,39,9,2023,9,24050.0
+"Gohana, Haryana",29.1366,76.6943,Wheat,2275,29,14,2023,10,21991.67
+"Panipat, Haryana",29.3909,76.9635,Jowar (Maldandi),3225,128,12,2023,11,137600.0
+"Rewari, Haryana",28.1972,76.6172,Lentil (Masur),6425,35,5,2023,12,74958.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Sugarcane,355,92,9,2024,1,10886.67
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,86,35,2024,2,200666.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Groundnut,6377,36,7,2024,3,76524.0
+"Jhajjar, Haryana",28.6061,76.6565,Safflower,5800,254,25,2024,4,491066.67
+"Rohtak, Haryana",28.8955,76.6066,Urad,6950,24,23,2024,5,55600.0
+"Gohana, Haryana",29.1366,76.6943,Mustard,5650,96,9,2024,6,180800.0
+"Rewari, Haryana",28.1972,76.6172,Sugarcane,355,72,16,2024,7,8520.0
+"Karnal, Haryana",29.6857,76.9905,Jowar (Maldandi),3225,46,10,2024,8,49450.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Groundnut,6377,59,37,2024,9,125414.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Wheat,2275,11,20,2024,10,8341.67
+"Karnal, Haryana",29.6857,76.9905,Wheat,2275,23,14,2024,11,17441.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Long Staple),7020,288,39,2024,12,673920.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Wheat,2275,41,22,2021,1,31091.67
+"Sonipat, Haryana",28.9288,77.091,Mustard,5650,38,16,2021,2,71566.67
+"Rewari, Haryana",28.1972,76.6172,Jowar (Hybrid),3180,66,25,2021,3,69960.0
+"Faridabad, Haryana",28.4112,77.3132,Maize,2090,79,32,2021,4,55036.67
+"Panipat, Haryana",29.3909,76.9635,Maize,2090,62,29,2021,5,43193.33
+"Gurugram, Haryana",28.4595,77.0266,Jowar (Hybrid),3180,70,30,2021,6,74200.0
+"Gohana, Haryana",29.1366,76.6943,Groundnut,6377,70,35,2021,7,148796.67
+"Panipat, Haryana",29.3909,76.9635,Barley,1850,270,9,2021,8,166500.0
+"Rohtak, Haryana",28.8955,76.6066,Mustard,5650,13,31,2021,9,24483.33
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,40,14,2021,10,85666.67
+"Palwal, Haryana",28.1487,77.332,Cotton (Long Staple),7020,141,15,2021,11,329940.0
+"Gohana, Haryana",29.1366,76.6943,Groundnut,6377,139,20,2021,12,295467.67
+"Karnal, Haryana",29.6857,76.9905,Sugarcane,355,321,35,2022,1,37985.0
+"Palwal, Haryana",28.1487,77.332,Sugarcane,355,202,16,2022,2,23903.33
+"Sonipat, Haryana",28.9288,77.091,Barley,1850,39,26,2022,3,24050.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Bajra,2500,69,19,2022,4,57500.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Wheat,2275,221,34,2022,5,167591.67
+"Panipat, Haryana",29.3909,76.9635,Groundnut,6377,40,4,2022,6,85026.67
+"Rewari, Haryana",28.1972,76.6172,Cotton (Long Staple),7020,73,27,2022,7,170820.0
+"Sonipat, Haryana",28.9288,77.091,Wheat,2275,112,37,2022,8,84933.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Sugarcane,355,63,20,2022,9,7455.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Urad,6950,287,7,2022,10,664883.33
+"Rohtak, Haryana",28.8955,76.6066,Urad,6950,158,31,2022,11,366033.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Wheat,2275,69,18,2022,12,52325.0
+"Sonipat, Haryana",28.9288,77.091,Urad,6950,218,1,2023,1,505033.33
+"Gurugram, Haryana",28.4595,77.0266,Groundnut,6377,184,36,2023,2,391122.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Urad,6950,46,7,2023,3,106566.67
+"Faridabad, Haryana",28.4112,77.3132,Wheat,2275,232,22,2023,4,175933.33
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,32,7,2023,5,74666.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Maldandi),3225,10,8,2023,6,10750.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Gram (Chana),5440,201,12,2023,7,364480.0
+"Sonipat, Haryana",28.9288,77.091,Groundnut,6377,56,14,2023,8,119037.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Moong,8558,55,25,2023,9,156896.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Mustard,5650,14,16,2023,10,26366.67
+"Rewari, Haryana",28.1972,76.6172,Cotton (Long Staple),7020,140,14,2023,11,327600.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Mustard,5650,29,21,2023,12,54616.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Cotton (Long Staple),7020,182,32,2024,1,425880.0
+"Rohtak, Haryana",28.8955,76.6066,Gram (Chana),5440,43,11,2024,2,77973.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Arhar (Tur),7000,42,26,2024,3,98000.0
+"Palwal, Haryana",28.1487,77.332,Arhar (Tur),7000,31,32,2024,4,72333.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Urad,6950,73,9,2024,5,169116.67
+"Rewari, Haryana",28.1972,76.6172,Urad,6950,11,36,2024,6,25483.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Lentil (Masur),6425,108,30,2024,7,231300.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Safflower,5800,195,11,2024,8,377000.0
+"Palwal, Haryana",28.1487,77.332,Jowar (Hybrid),3180,61,34,2024,9,64660.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Bajra,2500,257,26,2024,10,214166.67
+"Gohana, Haryana",29.1366,76.6943,Sugarcane,355,216,3,2024,11,25560.0
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,92,5,2024,12,214666.67
+"Rewari, Haryana",28.1972,76.6172,Cotton (Long Staple),7020,168,22,2021,1,393120.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Cotton (Long Staple),7020,241,33,2021,2,563940.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Urad,6950,25,29,2021,3,57916.67
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,114,11,2021,4,86450.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Wheat,2275,61,0,2021,5,46258.33
+"Faridabad, Haryana",28.4112,77.3132,Wheat,2275,126,37,2021,6,95550.0
+"Jhajjar, Haryana",28.6061,76.6565,Bajra,2500,70,17,2021,7,58333.33
+"Sonipat, Haryana",28.9288,77.091,Paddy (Grade A),2203,11,25,2021,8,8077.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Maldandi),3225,54,5,2021,9,58050.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Safflower,5800,58,38,2021,10,112133.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,15,27,2021,11,32125.0
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Hybrid),3180,258,7,2021,12,273480.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Maize,2090,194,0,2022,1,135153.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Paddy (Grade A),2203,125,5,2022,2,91791.67
+"Gurugram, Haryana",28.4595,77.0266,Moong,8558,22,33,2022,3,62758.67
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,243,32,2022,4,184275.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Urad,6950,34,2,2022,5,78766.67
+"Gohana, Haryana",29.1366,76.6943,Arhar (Tur),7000,53,19,2022,6,123666.67
+"Panipat, Haryana",29.3909,76.9635,Groundnut,6377,69,14,2022,7,146671.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Jowar (Hybrid),3180,33,19,2022,8,34980.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Cotton (Long Staple),7020,64,31,2022,9,149760.0
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,156,23,2022,10,364000.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Bajra,2500,255,31,2022,11,212500.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Urad,6950,241,40,2022,12,558316.67
+"Rewari, Haryana",28.1972,76.6172,Lentil (Masur),6425,19,30,2023,1,40691.67
+"Rohtak, Haryana",28.8955,76.6066,Arhar (Tur),7000,294,16,2023,2,686000.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Bajra,2500,69,2,2023,3,57500.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,221,5,2023,4,473308.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Hybrid),3180,65,0,2023,5,68900.0
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,67,9,2023,6,156333.33
+"Gurugram, Haryana",28.4595,77.0266,Jowar (Maldandi),3225,11,14,2023,7,11825.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Common),2183,20,20,2023,8,14553.33
+"Karnal, Haryana",29.6857,76.9905,Gram (Chana),5440,24,24,2023,9,43520.0
+"Sonipat, Haryana",28.9288,77.091,Maize,2090,203,26,2023,10,141423.33
+"Rohtak, Haryana",28.8955,76.6066,Bajra,2500,218,9,2023,11,181666.67
+"Sonipat, Haryana",28.9288,77.091,Groundnut,6377,193,25,2023,12,410253.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Arhar (Tur),7000,158,8,2024,1,368666.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Wheat,2275,30,9,2024,2,22750.0
+"Gohana, Haryana",29.1366,76.6943,Mustard,5650,58,35,2024,3,109233.33
+"Palwal, Haryana",28.1487,77.332,Jowar (Hybrid),3180,57,17,2024,4,60420.0
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Hybrid),3180,57,19,2024,5,60420.0
+"Gohana, Haryana",29.1366,76.6943,Sugarcane,355,91,33,2024,6,10768.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Sugarcane,355,75,1,2024,7,8875.0
+"Rohtak, Haryana",28.8955,76.6066,Sugarcane,355,97,21,2024,8,11478.33
+"Gohana, Haryana",29.1366,76.6943,Jowar (Hybrid),3180,25,19,2024,9,26500.0
+"Karnal, Haryana",29.6857,76.9905,Lentil (Masur),6425,33,5,2024,10,70675.0
+"Panipat, Haryana",29.3909,76.9635,Cotton (Medium Staple),6620,135,23,2024,11,297900.0
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,63,34,2024,12,47775.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Lentil (Masur),6425,33,33,2021,1,70675.0
+"Rohtak, Haryana",28.8955,76.6066,Jowar (Hybrid),3180,188,0,2021,2,199280.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Urad,6950,61,14,2021,3,141316.67
+"Karnal, Haryana",29.6857,76.9905,Jowar (Maldandi),3225,47,40,2021,4,50525.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Wheat,2275,265,8,2021,5,200958.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Urad,6950,76,27,2021,6,176066.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Wheat,2275,157,13,2021,7,119058.33
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Grade A),2203,17,3,2021,8,12483.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Cotton (Long Staple),7020,10,29,2021,9,23400.0
+"Rohtak, Haryana",28.8955,76.6066,Barley,1850,65,39,2021,10,40083.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Lentil (Masur),6425,37,1,2021,11,79241.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Paddy (Common),2183,242,18,2021,12,176095.33
+"Rohtak, Haryana",28.8955,76.6066,Groundnut,6377,132,1,2022,1,280588.0
+"Gohana, Haryana",29.1366,76.6943,Safflower,5800,15,38,2022,2,29000.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Safflower,5800,48,3,2022,3,92800.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Long Staple),7020,22,34,2022,4,51480.0
+"Karnal, Haryana",29.6857,76.9905,Groundnut,6377,17,17,2022,5,36136.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Long Staple),7020,31,25,2022,6,72540.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Hybrid),3180,16,10,2022,7,16960.0
+"Rohtak, Haryana",28.8955,76.6066,Bajra,2500,57,4,2022,8,47500.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,13,25,2022,9,28686.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Urad,6950,190,38,2022,10,440166.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Cotton (Medium Staple),6620,181,1,2022,11,399406.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,64,6,2022,12,116053.33
+"Panipat, Haryana",29.3909,76.9635,Maize,2090,135,31,2023,1,94050.0
+"Palwal, Haryana",28.1487,77.332,Cotton (Medium Staple),6620,76,19,2023,2,167706.67
+"Karnal, Haryana",29.6857,76.9905,Bajra,2500,43,37,2023,3,35833.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Groundnut,6377,38,37,2023,4,80775.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Wheat,2275,224,39,2023,5,169866.67
+"Rewari, Haryana",28.1972,76.6172,Cotton (Medium Staple),6620,46,14,2023,6,101506.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Jowar (Hybrid),3180,73,37,2023,7,77380.0
+"Sonipat, Haryana",28.9288,77.091,Safflower,5800,195,5,2023,8,377000.0
+"Gurugram, Haryana",28.4595,77.0266,Gram (Chana),5440,58,5,2023,9,105173.33
+"Karnal, Haryana",29.6857,76.9905,Gram (Chana),5440,14,23,2023,10,25386.67
+"Gurugram, Haryana",28.4595,77.0266,Wheat,2275,24,37,2023,11,18200.0
+"Gurugram, Haryana",28.4595,77.0266,Maize,2090,195,13,2023,12,135850.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Moong,8558,169,18,2024,1,482100.67
+"Karnal, Haryana",29.6857,76.9905,Urad,6950,240,13,2024,2,556000.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Urad,6950,53,24,2024,3,122783.33
+"Sonipat, Haryana",28.9288,77.091,Bajra,2500,75,16,2024,4,62500.0
+"Panipat, Haryana",29.3909,76.9635,Mustard,5650,253,12,2024,5,476483.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Sugarcane,355,34,24,2024,6,4023.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Barley,1850,137,29,2024,7,84483.33
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Hybrid),3180,65,8,2024,8,68900.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,12,33,2024,9,26480.0
+"Jhajjar, Haryana",28.6061,76.6565,Maize,2090,237,26,2024,10,165110.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Urad,6950,146,29,2024,11,338233.33
+"Panipat, Haryana",29.3909,76.9635,Paddy (Grade A),2203,170,2,2024,12,124836.67
+"Gurugram, Haryana",28.4595,77.0266,Sugarcane,355,107,10,2021,1,12661.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Moong,8558,156,22,2021,2,445016.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Arhar (Tur),7000,64,2,2021,3,149333.33
+"Rohtak, Haryana",28.8955,76.6066,Urad,6950,26,26,2021,4,60233.33
+"Gohana, Haryana",29.1366,76.6943,Jowar (Hybrid),3180,48,34,2021,5,50880.0
+"Palwal, Haryana",28.1487,77.332,Jowar (Maldandi),3225,10,26,2021,6,10750.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,89,31,2021,7,190608.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Urad,6950,66,37,2021,8,152900.0
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,12,5,2021,9,28000.0
+"Sonipat, Haryana",28.9288,77.091,Lentil (Masur),6425,20,1,2021,10,42833.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Maize,2090,118,12,2021,11,82206.67
+"Faridabad, Haryana",28.4112,77.3132,Paddy (Grade A),2203,99,24,2021,12,72699.0
+"Rewari, Haryana",28.1972,76.6172,Groundnut,6377,98,31,2022,1,208315.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Jowar (Maldandi),3225,103,35,2022,2,110725.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Long Staple),7020,73,6,2022,3,170820.0
+"Karnal, Haryana",29.6857,76.9905,Moong,8558,30,16,2022,4,85580.0
+"Jhajjar, Haryana",28.6061,76.6565,Maize,2090,63,26,2022,5,43890.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Lentil (Masur),6425,104,1,2022,6,222733.33
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Maldandi),3225,20,39,2022,7,21500.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Gram (Chana),5440,192,28,2022,8,348160.0
+"Gohana, Haryana",29.1366,76.6943,Bajra,2500,40,29,2022,9,33333.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Cotton (Medium Staple),6620,218,22,2022,10,481053.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Medium Staple),6620,231,26,2022,11,509740.0
+"Jhajjar, Haryana",28.6061,76.6565,Safflower,5800,49,12,2022,12,94733.33
+"Rewari, Haryana",28.1972,76.6172,Urad,6950,261,24,2023,1,604650.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Bajra,2500,241,7,2023,2,200833.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Barley,1850,39,9,2023,3,24050.0
+"Rewari, Haryana",28.1972,76.6172,Bajra,2500,10,39,2023,4,8333.33
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,26,17,2023,5,60666.67
+"Panipat, Haryana",29.3909,76.9635,Maize,2090,31,21,2023,6,21596.67
+"Gohana, Haryana",29.1366,76.6943,Lentil (Masur),6425,209,40,2023,7,447608.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Gram (Chana),5440,183,9,2023,8,331840.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Hybrid),3180,26,16,2023,9,27560.0
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Common),2183,147,23,2023,10,106967.0
+"Sonipat, Haryana",28.9288,77.091,Gram (Chana),5440,31,34,2023,11,56213.33
+"Palwal, Haryana",28.1487,77.332,Urad,6950,87,6,2023,12,201550.0
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,181,17,2024,1,422333.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Jowar (Maldandi),3225,154,9,2024,2,165550.0
+"Gurugram, Haryana",28.4595,77.0266,Barley,1850,33,2,2024,3,20350.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Cotton (Medium Staple),6620,55,32,2024,4,121366.67
+"Rewari, Haryana",28.1972,76.6172,Jowar (Maldandi),3225,63,17,2024,5,67725.0
+"Sonipat, Haryana",28.9288,77.091,Groundnut,6377,65,1,2024,6,138168.33
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Maldandi),3225,53,29,2024,7,56975.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Grade A),2203,39,3,2024,8,28639.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,12,0,2024,9,21760.0
+"Rohtak, Haryana",28.8955,76.6066,Groundnut,6377,237,37,2024,10,503783.0
+"Palwal, Haryana",28.1487,77.332,Paddy (Grade A),2203,143,1,2024,11,105009.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Maize,2090,154,1,2024,12,107286.67
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Long Staple),7020,121,8,2021,1,283140.0
+"Sonipat, Haryana",28.9288,77.091,Cotton (Long Staple),7020,197,5,2021,2,460980.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Lentil (Masur),6425,14,8,2021,3,29983.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Cotton (Medium Staple),6620,20,36,2021,4,44133.33
+"Rohtak, Haryana",28.8955,76.6066,Paddy (Grade A),2203,57,33,2021,5,41857.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Barley,1850,277,30,2021,6,170816.67
+"Rohtak, Haryana",28.8955,76.6066,Arhar (Tur),7000,72,3,2021,7,168000.0
+"Rohtak, Haryana",28.8955,76.6066,Barley,1850,236,26,2021,8,145533.33
+"Gohana, Haryana",29.1366,76.6943,Arhar (Tur),7000,34,5,2021,9,79333.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Medium Staple),6620,177,15,2021,10,390580.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Groundnut,6377,256,20,2021,11,544170.67
+"Gohana, Haryana",29.1366,76.6943,Gram (Chana),5440,54,31,2021,12,97920.0
+"Palwal, Haryana",28.1487,77.332,Lentil (Masur),6425,10,38,2022,1,21416.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Groundnut,6377,103,34,2022,2,218943.67
+"Rewari, Haryana",28.1972,76.6172,Paddy (Common),2183,66,14,2022,3,48026.0
+"Jhajjar, Haryana",28.6061,76.6565,Barley,1850,174,5,2022,4,107300.0
+"Gurugram, Haryana",28.4595,77.0266,Safflower,5800,277,36,2022,5,535533.33
+"Panipat, Haryana",29.3909,76.9635,Safflower,5800,91,2,2022,6,175933.33
+"Rewari, Haryana",28.1972,76.6172,Urad,6950,78,25,2022,7,180700.0
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,61,32,2022,8,142333.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Bajra,2500,78,31,2022,9,65000.0
+"Gurugram, Haryana",28.4595,77.0266,Barley,1850,12,26,2022,10,7400.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Barley,1850,32,18,2022,11,19733.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Common),2183,181,37,2022,12,131707.67
+"Rohtak, Haryana",28.8955,76.6066,Maize,2090,88,11,2023,1,61306.67
+"Rewari, Haryana",28.1972,76.6172,Cotton (Medium Staple),6620,148,21,2023,2,326586.67
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Medium Staple),6620,69,20,2023,3,152260.0
+"Karnal, Haryana",29.6857,76.9905,Moong,8558,55,23,2023,4,156896.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Groundnut,6377,71,9,2023,5,150922.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Jowar (Maldandi),3225,57,11,2023,6,61275.0
+"Palwal, Haryana",28.1487,77.332,Urad,6950,59,26,2023,7,136683.33
+"Rewari, Haryana",28.1972,76.6172,Groundnut,6377,49,31,2023,8,104157.67
+"Jhajjar, Haryana",28.6061,76.6565,Lentil (Masur),6425,44,18,2023,9,94233.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Paddy (Common),2183,122,1,2023,10,88775.33
+"Rohtak, Haryana",28.8955,76.6066,Jowar (Hybrid),3180,146,0,2023,11,154760.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Cotton (Medium Staple),6620,275,22,2023,12,606833.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Safflower,5800,22,1,2024,1,42533.33
+"Palwal, Haryana",28.1487,77.332,Lentil (Masur),6425,21,13,2024,2,44975.0
+"Sonipat, Haryana",28.9288,77.091,Urad,6950,37,16,2024,3,85716.67
+"Gohana, Haryana",29.1366,76.6943,Jowar (Hybrid),3180,32,1,2024,4,33920.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Barley,1850,158,34,2024,5,97433.33
+"Panipat, Haryana",29.3909,76.9635,Moong,8558,48,26,2024,6,136928.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Moong,8558,63,36,2024,7,179718.0
+"Palwal, Haryana",28.1487,77.332,Arhar (Tur),7000,51,10,2024,8,119000.0
+"Gurugram, Haryana",28.4595,77.0266,Lentil (Masur),6425,58,21,2024,9,124216.67
+"Faridabad, Haryana",28.4112,77.3132,Paddy (Grade A),2203,173,5,2024,10,127039.67
+"Faridabad, Haryana",28.4112,77.3132,Sugarcane,355,118,14,2024,11,13963.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Jowar (Maldandi),3225,153,31,2024,12,164475.0
+"Palwal, Haryana",28.1487,77.332,Paddy (Common),2183,296,0,2021,1,215389.33
+"Jhajjar, Haryana",28.6061,76.6565,Barley,1850,25,35,2021,2,15416.67
+"Rewari, Haryana",28.1972,76.6172,Cotton (Medium Staple),6620,65,17,2021,3,143433.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Safflower,5800,141,23,2021,4,272600.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Groundnut,6377,36,2,2021,5,76524.0
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,155,0,2021,6,117541.67
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,77,9,2021,7,164908.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,247,15,2021,8,528991.67
+"Jhajjar, Haryana",28.6061,76.6565,Sugarcane,355,62,4,2021,9,7336.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Maize,2090,260,7,2021,10,181133.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Cotton (Long Staple),7020,293,23,2021,11,685620.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Paddy (Grade A),2203,282,21,2021,12,207082.0
+"Sonipat, Haryana",28.9288,77.091,Gram (Chana),5440,58,2,2022,1,105173.33
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Medium Staple),6620,101,26,2022,2,222873.33
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Long Staple),7020,28,6,2022,3,65520.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Bajra,2500,17,6,2022,4,14166.67
+"Karnal, Haryana",29.6857,76.9905,Bajra,2500,36,2,2022,5,30000.0
+"Sonipat, Haryana",28.9288,77.091,Cotton (Medium Staple),6620,43,0,2022,6,94886.67
+"Karnal, Haryana",29.6857,76.9905,Wheat,2275,162,21,2022,7,122850.0
+"Jhajjar, Haryana",28.6061,76.6565,Groundnut,6377,15,8,2022,8,31885.0
+"Rewari, Haryana",28.1972,76.6172,Maize,2090,49,9,2022,9,34136.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Urad,6950,95,14,2022,10,220083.33
+"Rohtak, Haryana",28.8955,76.6066,Moong,8558,285,37,2022,11,813010.0
+"Sonipat, Haryana",28.9288,77.091,Barley,1850,37,27,2022,12,22816.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Barley,1850,25,28,2023,1,15416.67
+"Sonipat, Haryana",28.9288,77.091,Gram (Chana),5440,49,33,2023,2,88853.33
+"Gurugram, Haryana",28.4595,77.0266,Wheat,2275,34,26,2023,3,25783.33
+"Sonipat, Haryana",28.9288,77.091,Sugarcane,355,87,2,2023,4,10295.0
+"Rewari, Haryana",28.1972,76.6172,Safflower,5800,246,33,2023,5,475600.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Safflower,5800,185,37,2023,6,357666.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Wheat,2275,182,37,2023,7,138016.67
+"Sonipat, Haryana",28.9288,77.091,Safflower,5800,224,39,2023,8,433066.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Lentil (Masur),6425,44,31,2023,9,94233.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,62,35,2023,10,132783.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Mustard,5650,33,17,2023,11,62150.0
+"Rewari, Haryana",28.1972,76.6172,Moong,8558,127,19,2023,12,362288.67
+"Panipat, Haryana",29.3909,76.9635,Wheat,2275,19,12,2024,1,14408.33
+"Gurugram, Haryana",28.4595,77.0266,Arhar (Tur),7000,151,29,2024,2,352333.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Barley,1850,66,22,2024,3,40700.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,141,8,2024,4,255680.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Long Staple),7020,41,6,2024,5,95940.0
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Maldandi),3225,45,28,2024,6,48375.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Bajra,2500,73,13,2024,7,60833.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Urad,6950,60,11,2024,8,139000.0
+"Karnal, Haryana",29.6857,76.9905,Gram (Chana),5440,38,19,2024,9,68906.67
+"Panipat, Haryana",29.3909,76.9635,Paddy (Common),2183,75,21,2024,10,54575.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Gram (Chana),5440,69,16,2024,11,125120.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Hybrid),3180,100,36,2024,12,106000.0
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Medium Staple),6620,244,3,2021,1,538426.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,283,13,2021,2,624486.67
+"Karnal, Haryana",29.6857,76.9905,Mustard,5650,57,5,2021,3,107350.0
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Common),2183,29,22,2021,4,21102.33
+"Gohana, Haryana",29.1366,76.6943,Safflower,5800,195,13,2021,5,377000.0
+"Gohana, Haryana",29.1366,76.6943,Safflower,5800,244,27,2021,6,471733.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Gram (Chana),5440,278,10,2021,7,504106.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Gram (Chana),5440,182,7,2021,8,330026.67
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Grade A),2203,63,1,2021,9,46263.0
+"Sonipat, Haryana",28.9288,77.091,Safflower,5800,15,9,2021,10,29000.0
+"Gohana, Haryana",29.1366,76.6943,Groundnut,6377,297,8,2021,11,631323.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Mustard,5650,54,38,2021,12,101700.0
+"Rewari, Haryana",28.1972,76.6172,Safflower,5800,45,14,2022,1,87000.0
+"Panipat, Haryana",29.3909,76.9635,Paddy (Grade A),2203,110,10,2022,2,80776.67
+"Gurugram, Haryana",28.4595,77.0266,Safflower,5800,14,37,2022,3,27066.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Paddy (Common),2183,54,37,2022,4,39294.0
+"Jhajjar, Haryana",28.6061,76.6565,Gram (Chana),5440,87,13,2022,5,157760.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Lentil (Masur),6425,78,25,2022,6,167050.0
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,252,26,2022,7,191100.0
+"Palwal, Haryana",28.1487,77.332,Mustard,5650,184,23,2022,8,346533.33
+"Rohtak, Haryana",28.8955,76.6066,Gram (Chana),5440,27,2,2022,9,48960.0
+"Sonipat, Haryana",28.9288,77.091,Mustard,5650,23,3,2022,10,43316.67
+"Rohtak, Haryana",28.8955,76.6066,Mustard,5650,57,23,2022,11,107350.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Moong,8558,292,39,2022,12,832978.67
+"Karnal, Haryana",29.6857,76.9905,Wheat,2275,57,30,2023,1,43225.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Jowar (Hybrid),3180,200,24,2023,2,212000.0
+"Sonipat, Haryana",28.9288,77.091,Mustard,5650,50,27,2023,3,94166.67
+"Jhajjar, Haryana",28.6061,76.6565,Moong,8558,57,40,2023,4,162602.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Long Staple),7020,36,12,2023,5,84240.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Mustard,5650,245,7,2023,6,461416.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Barley,1850,167,23,2023,7,102983.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Lentil (Masur),6425,144,38,2023,8,308400.0
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,34,8,2023,9,78766.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Urad,6950,246,28,2023,10,569900.0
+"Rewari, Haryana",28.1972,76.6172,Maize,2090,248,39,2023,11,172773.33
+"Karnal, Haryana",29.6857,76.9905,Jowar (Hybrid),3180,160,5,2023,12,169600.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Barley,1850,31,12,2024,1,19116.67
+"Jhajjar, Haryana",28.6061,76.6565,Mustard,5650,56,10,2024,2,105466.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Paddy (Common),2183,39,23,2024,3,28379.0
+"Gohana, Haryana",29.1366,76.6943,Groundnut,6377,29,3,2024,4,61644.33
+"Rohtak, Haryana",28.8955,76.6066,Wheat,2275,64,32,2024,5,48533.33
+"Gohana, Haryana",29.1366,76.6943,Safflower,5800,128,8,2024,6,247466.67
+"Sonipat, Haryana",28.9288,77.091,Sugarcane,355,74,33,2024,7,8756.67
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,93,31,2024,8,70525.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Lentil (Masur),6425,63,25,2024,9,134925.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Wheat,2275,24,25,2024,10,18200.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Moong,8558,292,7,2024,11,832978.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Maldandi),3225,100,1,2024,12,107500.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Safflower,5800,23,30,2021,1,44466.67
+"Gurugram, Haryana",28.4595,77.0266,Urad,6950,155,18,2021,2,359083.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Moong,8558,25,35,2021,3,71316.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Medium Staple),6620,31,6,2021,4,68406.67
+"Faridabad, Haryana",28.4112,77.3132,Sugarcane,355,34,19,2021,5,4023.33
+"Faridabad, Haryana",28.4112,77.3132,Gram (Chana),5440,218,13,2021,6,395306.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Sugarcane,355,42,31,2021,7,4970.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Moong,8558,55,28,2021,8,156896.67
+"Panipat, Haryana",29.3909,76.9635,Safflower,5800,59,4,2021,9,114066.67
+"Sonipat, Haryana",28.9288,77.091,Gram (Chana),5440,42,9,2021,10,76160.0
+"Karnal, Haryana",29.6857,76.9905,Jowar (Hybrid),3180,117,9,2021,11,124020.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Sugarcane,355,336,10,2021,12,39760.0
+"Palwal, Haryana",28.1487,77.332,Bajra,2500,127,28,2022,1,105833.33
+"Rewari, Haryana",28.1972,76.6172,Safflower,5800,59,10,2022,2,114066.67
+"Rewari, Haryana",28.1972,76.6172,Moong,8558,52,14,2022,3,148338.67
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Medium Staple),6620,29,23,2022,4,63993.33
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Hybrid),3180,12,26,2022,5,12720.0
+"Gohana, Haryana",29.1366,76.6943,Maize,2090,11,9,2022,6,7663.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Gram (Chana),5440,214,4,2022,7,388053.33
+"Panipat, Haryana",29.3909,76.9635,Paddy (Grade A),2203,47,37,2022,8,34513.67
+"Rewari, Haryana",28.1972,76.6172,Mustard,5650,54,5,2022,9,101700.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Moong,8558,212,4,2022,10,604765.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Barley,1850,60,26,2022,11,37000.0
+"Gurugram, Haryana",28.4595,77.0266,Paddy (Common),2183,131,17,2022,12,95324.33
+"Gurugram, Haryana",28.4595,77.0266,Mustard,5650,27,9,2023,1,50850.0
+"Rohtak, Haryana",28.8955,76.6066,Arhar (Tur),7000,278,8,2023,2,648666.67
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Medium Staple),6620,23,19,2023,3,50753.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Arhar (Tur),7000,49,34,2023,4,114333.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Mustard,5650,82,31,2023,5,154433.33
+"Gurugram, Haryana",28.4595,77.0266,Jowar (Maldandi),3225,44,13,2023,6,47300.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Urad,6950,79,33,2023,7,183016.67
+"Gohana, Haryana",29.1366,76.6943,Arhar (Tur),7000,59,13,2023,8,137666.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Paddy (Grade A),2203,55,1,2023,9,40388.33
+"Sonipat, Haryana",28.9288,77.091,Cotton (Long Staple),7020,159,19,2023,10,372060.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Maize,2090,194,8,2023,11,135153.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Long Staple),7020,217,19,2023,12,507780.0
+"Faridabad, Haryana",28.4112,77.3132,Safflower,5800,56,8,2024,1,108266.67
+"Gurugram, Haryana",28.4595,77.0266,Maize,2090,106,15,2024,2,73846.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Gram (Chana),5440,35,19,2024,3,63466.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Paddy (Grade A),2203,27,4,2024,4,19827.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Mustard,5650,227,29,2024,5,427516.67
+"Palwal, Haryana",28.1487,77.332,Jowar (Hybrid),3180,57,19,2024,6,60420.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Paddy (Grade A),2203,20,33,2024,7,14686.67
+"Faridabad, Haryana",28.4112,77.3132,Wheat,2275,215,37,2024,8,163041.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Sugarcane,355,78,34,2024,9,9230.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Cotton (Long Staple),7020,182,30,2024,10,425880.0
+"Sonipat, Haryana",28.9288,77.091,Safflower,5800,41,34,2024,11,79266.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Urad,6950,199,20,2024,12,461016.67
+"Gurugram, Haryana",28.4595,77.0266,Paddy (Grade A),2203,268,10,2021,1,196801.33
+"Jhajjar, Haryana",28.6061,76.6565,Bajra,2500,210,36,2021,2,175000.0
+"Jhajjar, Haryana",28.6061,76.6565,Sugarcane,355,345,24,2021,3,40825.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Mustard,5650,249,36,2021,4,468950.0
+"Sonipat, Haryana",28.9288,77.091,Urad,6950,74,24,2021,5,171433.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Grade A),2203,45,40,2021,6,33045.0
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,47,2,2021,7,109666.67
+"Rewari, Haryana",28.1972,76.6172,Jowar (Maldandi),3225,74,15,2021,8,79550.0
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,44,16,2021,9,94233.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Mustard,5650,13,34,2021,10,24483.33
+"Sonipat, Haryana",28.9288,77.091,Barley,1850,69,21,2021,11,42550.0
+"Panipat, Haryana",29.3909,76.9635,Maize,2090,83,5,2021,12,57823.33
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Medium Staple),6620,176,26,2022,1,388373.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Safflower,5800,28,25,2022,2,54133.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Gram (Chana),5440,69,11,2022,3,125120.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Cotton (Medium Staple),6620,24,9,2022,4,52960.0
+"Palwal, Haryana",28.1487,77.332,Wheat,2275,82,23,2022,5,62183.33
+"Gohana, Haryana",29.1366,76.6943,Gram (Chana),5440,134,19,2022,6,242986.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Sugarcane,355,27,29,2022,7,3195.0
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,43,27,2022,8,99616.67
+"Faridabad, Haryana",28.4112,77.3132,Maize,2090,49,0,2022,9,34136.67
+"Rohtak, Haryana",28.8955,76.6066,Gram (Chana),5440,35,7,2022,10,63466.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Jowar (Hybrid),3180,218,27,2022,11,231080.0
+"Rewari, Haryana",28.1972,76.6172,Arhar (Tur),7000,174,12,2022,12,406000.0
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Long Staple),7020,89,19,2023,1,208260.0
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,262,33,2023,2,611333.33
+"Rewari, Haryana",28.1972,76.6172,Moong,8558,26,32,2023,3,74169.33
+"Sonipat, Haryana",28.9288,77.091,Bajra,2500,19,24,2023,4,15833.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Common),2183,44,15,2023,5,32017.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Paddy (Grade A),2203,68,35,2023,6,49934.67
+"Palwal, Haryana",28.1487,77.332,Lentil (Masur),6425,199,16,2023,7,426191.67
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Long Staple),7020,27,9,2023,8,63180.0
+"Gurugram, Haryana",28.4595,77.0266,Paddy (Common),2183,40,15,2023,9,29106.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Wheat,2275,44,9,2023,10,33366.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Safflower,5800,19,1,2023,11,36733.33
+"Karnal, Haryana",29.6857,76.9905,Mustard,5650,19,10,2023,12,35783.33
+"Rohtak, Haryana",28.8955,76.6066,Safflower,5800,56,35,2024,1,108266.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Groundnut,6377,191,27,2024,2,406002.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Arhar (Tur),7000,79,31,2024,3,184333.33
+"Rohtak, Haryana",28.8955,76.6066,Maize,2090,15,10,2024,4,10450.0
+"Palwal, Haryana",28.1487,77.332,Safflower,5800,149,19,2024,5,288066.67
+"Gurugram, Haryana",28.4595,77.0266,Arhar (Tur),7000,22,22,2024,6,51333.33
+"Faridabad, Haryana",28.4112,77.3132,Sugarcane,355,62,38,2024,7,7336.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Bajra,2500,12,15,2024,8,10000.0
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Hybrid),3180,78,20,2024,9,82680.0
+"Sonipat, Haryana",28.9288,77.091,Sugarcane,355,87,30,2024,10,10295.0
+"Sonipat, Haryana",28.9288,77.091,Sugarcane,355,151,35,2024,11,17868.33
+"Palwal, Haryana",28.1487,77.332,Bajra,2500,254,13,2024,12,211666.67
+"Rewari, Haryana",28.1972,76.6172,Barley,1850,27,17,2021,1,16650.0
+"Rewari, Haryana",28.1972,76.6172,Maize,2090,196,17,2021,2,136546.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Arhar (Tur),7000,54,25,2021,3,126000.0
+"Rohtak, Haryana",28.8955,76.6066,Jowar (Maldandi),3225,34,33,2021,4,36550.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Grade A),2203,61,6,2021,5,44794.33
+"Rohtak, Haryana",28.8955,76.6066,Bajra,2500,40,22,2021,6,33333.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Grade A),2203,28,30,2021,7,20561.33
+"Rewari, Haryana",28.1972,76.6172,Maize,2090,41,34,2021,8,28563.33
+"Palwal, Haryana",28.1487,77.332,Maize,2090,64,10,2021,9,44586.67
+"Karnal, Haryana",29.6857,76.9905,Jowar (Hybrid),3180,88,18,2021,10,93280.0
+"Gohana, Haryana",29.1366,76.6943,Moong,8558,268,14,2021,11,764514.67
+"Rewari, Haryana",28.1972,76.6172,Maize,2090,118,0,2021,12,82206.67
+"Rohtak, Haryana",28.8955,76.6066,Wheat,2275,50,21,2022,1,37916.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Maize,2090,145,32,2022,2,101016.67
+"Gurugram, Haryana",28.4595,77.0266,Sugarcane,355,230,5,2022,3,27216.67
+"Rohtak, Haryana",28.8955,76.6066,Maize,2090,66,36,2022,4,45980.0
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Long Staple),7020,74,3,2022,5,173160.0
+"Faridabad, Haryana",28.4112,77.3132,Wheat,2275,188,0,2022,6,142566.67
+"Sonipat, Haryana",28.9288,77.091,Jowar (Maldandi),3225,34,17,2022,7,36550.0
+"Faridabad, Haryana",28.4112,77.3132,Moong,8558,67,21,2022,8,191128.67
+"Panipat, Haryana",29.3909,76.9635,Wheat,2275,43,25,2022,9,32608.33
+"Rewari, Haryana",28.1972,76.6172,Moong,8558,199,19,2022,10,567680.67
+"Gurugram, Haryana",28.4595,77.0266,Groundnut,6377,116,20,2022,11,246577.33
+"Gurugram, Haryana",28.4595,77.0266,Arhar (Tur),7000,268,0,2022,12,625333.33
+"Gohana, Haryana",29.1366,76.6943,Mustard,5650,24,1,2023,1,45200.0
+"Karnal, Haryana",29.6857,76.9905,Paddy (Grade A),2203,80,25,2023,2,58746.67
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Grade A),2203,76,6,2023,3,55809.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Wheat,2275,106,30,2023,4,80383.33
+"Karnal, Haryana",29.6857,76.9905,Maize,2090,20,31,2023,5,13933.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Lentil (Masur),6425,79,13,2023,6,169191.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Sugarcane,355,84,9,2023,7,9940.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Jowar (Maldandi),3225,43,32,2023,8,46225.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Gram (Chana),5440,58,10,2023,9,105173.33
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Grade A),2203,191,12,2023,10,140257.67
+"Rohtak, Haryana",28.8955,76.6066,Sugarcane,355,110,21,2023,11,13016.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Jowar (Hybrid),3180,294,1,2023,12,311640.0
+"Panipat, Haryana",29.3909,76.9635,Cotton (Medium Staple),6620,115,10,2024,1,253766.67
+"Faridabad, Haryana",28.4112,77.3132,Arhar (Tur),7000,110,36,2024,2,256666.67
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Medium Staple),6620,61,1,2024,3,134606.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Groundnut,6377,61,11,2024,4,129665.67
+"Sonipat, Haryana",28.9288,77.091,Cotton (Long Staple),7020,62,24,2024,5,145080.0
+"Sonipat, Haryana",28.9288,77.091,Jowar (Maldandi),3225,42,27,2024,6,45150.0
+"Panipat, Haryana",29.3909,76.9635,Jowar (Hybrid),3180,47,24,2024,7,49820.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Lentil (Masur),6425,197,19,2024,8,421908.33
+"Karnal, Haryana",29.6857,76.9905,Arhar (Tur),7000,28,17,2024,9,65333.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Maize,2090,97,36,2024,10,67576.67
+"Rohtak, Haryana",28.8955,76.6066,Groundnut,6377,105,23,2024,11,223195.0
+"Panipat, Haryana",29.3909,76.9635,Maize,2090,279,0,2024,12,194370.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Urad,6950,103,15,2021,1,238616.67
+"Hapur, Uttar Pradesh",28.7306,77.7759,Urad,6950,179,28,2021,2,414683.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Wheat,2275,15,36,2021,3,11375.0
+"Faridabad, Haryana",28.4112,77.3132,Jowar (Hybrid),3180,10,1,2021,4,10600.0
+"Gohana, Haryana",29.1366,76.6943,Jowar (Hybrid),3180,62,17,2021,5,65720.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Safflower,5800,194,12,2021,6,375066.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Groundnut,6377,62,28,2021,7,131791.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Sugarcane,355,75,22,2021,8,8875.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Lentil (Masur),6425,32,34,2021,9,68533.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Groundnut,6377,178,3,2021,10,378368.67
+"Gohana, Haryana",29.1366,76.6943,Gram (Chana),5440,18,17,2021,11,32640.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Sugarcane,355,161,13,2021,12,19051.67
+"Gurugram, Haryana",28.4595,77.0266,Wheat,2275,29,25,2022,1,21991.67
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,273,37,2022,2,632450.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Arhar (Tur),7000,57,36,2022,3,133000.0
+"Gurugram, Haryana",28.4595,77.0266,Barley,1850,211,24,2022,4,130116.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Bajra,2500,26,34,2022,5,21666.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Arhar (Tur),7000,77,37,2022,6,179666.67
+"Gohana, Haryana",29.1366,76.6943,Lentil (Masur),6425,107,33,2022,7,229158.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Gram (Chana),5440,253,38,2022,8,458773.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Gram (Chana),5440,27,36,2022,9,48960.0
+"Palwal, Haryana",28.1487,77.332,Gram (Chana),5440,60,18,2022,10,108800.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Grade A),2203,215,14,2022,11,157881.67
+"Gohana, Haryana",29.1366,76.6943,Jowar (Hybrid),3180,264,3,2022,12,279840.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Bajra,2500,251,25,2023,1,209166.67
+"Gurugram, Haryana",28.4595,77.0266,Gram (Chana),5440,64,2,2023,2,116053.33
+"Rewari, Haryana",28.1972,76.6172,Arhar (Tur),7000,70,38,2023,3,163333.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Urad,6950,10,28,2023,4,23166.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Gram (Chana),5440,228,14,2023,5,413440.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Grade A),2203,78,31,2023,6,57278.0
+"Gurugram, Haryana",28.4595,77.0266,Gram (Chana),5440,255,23,2023,7,462400.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Wheat,2275,160,32,2023,8,121333.33
+"Gohana, Haryana",29.1366,76.6943,Maize,2090,79,31,2023,9,55036.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Long Staple),7020,107,25,2023,10,250380.0
+"Rohtak, Haryana",28.8955,76.6066,Maize,2090,258,31,2023,11,179740.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Groundnut,6377,102,27,2023,12,216818.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Bajra,2500,151,12,2024,1,125833.33
+"Rewari, Haryana",28.1972,76.6172,Cotton (Medium Staple),6620,184,12,2024,2,406026.67
+"Jhajjar, Haryana",28.6061,76.6565,Bajra,2500,30,27,2024,3,25000.0
+"Palwal, Haryana",28.1487,77.332,Cotton (Long Staple),7020,10,34,2024,4,23400.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Urad,6950,63,23,2024,5,145950.0
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Medium Staple),6620,79,3,2024,6,174326.67
+"Palwal, Haryana",28.1487,77.332,Barley,1850,184,2,2024,7,113466.67
+"Rohtak, Haryana",28.8955,76.6066,Lentil (Masur),6425,78,15,2024,8,167050.0
+"Rewari, Haryana",28.1972,76.6172,Jowar (Maldandi),3225,17,32,2024,9,18275.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Groundnut,6377,289,26,2024,10,614317.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Hybrid),3180,128,27,2024,11,135680.0
+"Panipat, Haryana",29.3909,76.9635,Barley,1850,55,11,2024,12,33916.67
+"Sonipat, Haryana",28.9288,77.091,Barley,1850,29,16,2021,1,17883.33
+"Rohtak, Haryana",28.8955,76.6066,Paddy (Grade A),2203,279,38,2021,2,204879.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Cotton (Medium Staple),6620,26,37,2021,3,57373.33
+"Palwal, Haryana",28.1487,77.332,Gram (Chana),5440,204,37,2021,4,369920.0
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,33,15,2021,5,77000.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Lentil (Masur),6425,69,7,2021,6,147775.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Moong,8558,47,3,2021,7,134075.33
+"Faridabad, Haryana",28.4112,77.3132,Arhar (Tur),7000,48,35,2021,8,112000.0
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,61,14,2021,9,142333.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Maize,2090,127,37,2021,10,88476.67
+"Palwal, Haryana",28.1487,77.332,Lentil (Masur),6425,28,32,2021,11,59966.67
+"Palwal, Haryana",28.1487,77.332,Paddy (Grade A),2203,122,29,2021,12,89588.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Groundnut,6377,83,33,2022,1,176430.33
+"Gohana, Haryana",29.1366,76.6943,Jowar (Maldandi),3225,153,12,2022,2,164475.0
+"Karnal, Haryana",29.6857,76.9905,Lentil (Masur),6425,46,13,2022,3,98516.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Urad,6950,47,12,2022,4,108883.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Safflower,5800,79,24,2022,5,152733.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Urad,6950,21,22,2022,6,48650.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Mustard,5650,88,38,2022,7,165733.33
+"Gohana, Haryana",29.1366,76.6943,Moong,8558,57,26,2022,8,162602.0
+"Gurugram, Haryana",28.4595,77.0266,Jowar (Hybrid),3180,58,25,2022,9,61480.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Moong,8558,178,20,2022,10,507774.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Safflower,5800,57,26,2022,11,110200.0
+"Sonipat, Haryana",28.9288,77.091,Cotton (Long Staple),7020,88,15,2022,12,205920.0
+"Karnal, Haryana",29.6857,76.9905,Mustard,5650,47,3,2023,1,88516.67
+"Rohtak, Haryana",28.8955,76.6066,Safflower,5800,58,4,2023,2,112133.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Urad,6950,70,12,2023,3,162166.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Moong,8558,30,18,2023,4,85580.0
+"Sonipat, Haryana",28.9288,77.091,Jowar (Hybrid),3180,56,40,2023,5,59360.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Gram (Chana),5440,196,12,2023,6,355413.33
+"Rewari, Haryana",28.1972,76.6172,Mustard,5650,62,18,2023,7,116766.67
+"Palwal, Haryana",28.1487,77.332,Moong,8558,13,8,2023,8,37084.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Paddy (Grade A),2203,66,38,2023,9,48466.0
+"Palwal, Haryana",28.1487,77.332,Bajra,2500,274,4,2023,10,228333.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Bajra,2500,278,1,2023,11,231666.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Jowar (Hybrid),3180,146,11,2023,12,154760.0
+"Rohtak, Haryana",28.8955,76.6066,Groundnut,6377,155,0,2024,1,329478.33
+"Karnal, Haryana",29.6857,76.9905,Gram (Chana),5440,41,28,2024,2,74346.67
+"Sonipat, Haryana",28.9288,77.091,Urad,6950,66,20,2024,3,152900.0
+"Rohtak, Haryana",28.8955,76.6066,Arhar (Tur),7000,27,5,2024,4,63000.0
+"Faridabad, Haryana",28.4112,77.3132,Mustard,5650,176,22,2024,5,331466.67
+"Gurugram, Haryana",28.4595,77.0266,Lentil (Masur),6425,128,27,2024,6,274133.33
+"Jhajjar, Haryana",28.6061,76.6565,Cotton (Medium Staple),6620,10,40,2024,7,22066.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Paddy (Grade A),2203,63,26,2024,8,46263.0
+"Gohana, Haryana",29.1366,76.6943,Gram (Chana),5440,65,40,2024,9,117866.67
+"Rohtak, Haryana",28.8955,76.6066,Sugarcane,355,180,5,2024,10,21300.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Maize,2090,251,21,2024,11,174863.33
+"Rewari, Haryana",28.1972,76.6172,Paddy (Grade A),2203,225,15,2024,12,165225.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,237,28,2021,1,522980.0
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,69,32,2021,2,147775.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Barley,1850,26,4,2021,3,16033.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Wheat,2275,204,22,2021,4,154700.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Bajra,2500,26,20,2021,5,21666.67
+"Gohana, Haryana",29.1366,76.6943,Gram (Chana),5440,211,15,2021,6,382613.33
+"Faridabad, Haryana",28.4112,77.3132,Safflower,5800,184,35,2021,7,355733.33
+"Sonipat, Haryana",28.9288,77.091,Wheat,2275,101,0,2021,8,76591.67
+"Gurugram, Haryana",28.4595,77.0266,Gram (Chana),5440,30,38,2021,9,54400.0
+"Panipat, Haryana",29.3909,76.9635,Paddy (Common),2183,272,7,2021,10,197925.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Groundnut,6377,145,2,2021,11,308221.67
+"Gurugram, Haryana",28.4595,77.0266,Jowar (Maldandi),3225,81,13,2021,12,87075.0
+"Rewari, Haryana",28.1972,76.6172,Mustard,5650,50,31,2022,1,94166.67
+"Rohtak, Haryana",28.8955,76.6066,Moong,8558,77,36,2022,2,219655.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Maize,2090,12,36,2022,3,8360.0
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,58,40,2022,4,134366.67
+"Palwal, Haryana",28.1487,77.332,Paddy (Grade A),2203,11,5,2022,5,8077.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Gram (Chana),5440,70,32,2022,6,126933.33
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Medium Staple),6620,57,14,2022,7,125780.0
+"Sonipat, Haryana",28.9288,77.091,Wheat,2275,145,19,2022,8,109958.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Mustard,5650,42,38,2022,9,79100.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Bajra,2500,87,28,2022,10,72500.0
+"Jhajjar, Haryana",28.6061,76.6565,Bajra,2500,183,33,2022,11,152500.0
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,121,17,2022,12,282333.33
+"Gohana, Haryana",29.1366,76.6943,Wheat,2275,49,34,2023,1,37158.33
+"Faridabad, Haryana",28.4112,77.3132,Safflower,5800,54,38,2023,2,104400.0
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Common),2183,46,7,2023,3,33472.67
+"Palwal, Haryana",28.1487,77.332,Sugarcane,355,31,21,2023,4,3668.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Sugarcane,355,73,7,2023,5,8638.33
+"Jhajjar, Haryana",28.6061,76.6565,Urad,6950,13,40,2023,6,30116.67
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,57,18,2023,7,133000.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Barley,1850,234,40,2023,8,144300.0
+"Karnal, Haryana",29.6857,76.9905,Sugarcane,355,42,9,2023,9,4970.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Sugarcane,355,229,26,2023,10,27098.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Cotton (Long Staple),7020,151,21,2023,11,353340.0
+"Rewari, Haryana",28.1972,76.6172,Cotton (Long Staple),7020,82,27,2023,12,191880.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Grade A),2203,173,21,2024,1,127039.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Barley,1850,69,16,2024,2,42550.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Lentil (Masur),6425,60,31,2024,3,128500.0
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,69,7,2024,4,159850.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Safflower,5800,155,3,2024,5,299666.67
+"Jhajjar, Haryana",28.6061,76.6565,Gram (Chana),5440,124,9,2024,6,224853.33
+"Rohtak, Haryana",28.8955,76.6066,Wheat,2275,183,33,2024,7,138775.0
+"Gohana, Haryana",29.1366,76.6943,Moong,8558,75,20,2024,8,213950.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,65,18,2024,9,117866.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Gram (Chana),5440,51,30,2024,10,92480.0
+"Karnal, Haryana",29.6857,76.9905,Jowar (Maldandi),3225,150,10,2024,11,161250.0
+"Karnal, Haryana",29.6857,76.9905,Mustard,5650,20,26,2024,12,37666.67
+"Palwal, Haryana",28.1487,77.332,Barley,1850,42,33,2021,1,25900.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Safflower,5800,39,23,2021,2,75400.0
+"Jhajjar, Haryana",28.6061,76.6565,Safflower,5800,49,33,2021,3,94733.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Sugarcane,355,75,8,2021,4,8875.0
+"Palwal, Haryana",28.1487,77.332,Jowar (Maldandi),3225,59,21,2021,5,63425.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Mustard,5650,202,21,2021,6,380433.33
+"Rewari, Haryana",28.1972,76.6172,Jowar (Hybrid),3180,18,34,2021,7,19080.0
+"Faridabad, Haryana",28.4112,77.3132,Barley,1850,102,15,2021,8,62900.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Paddy (Grade A),2203,46,28,2021,9,33779.33
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,92,21,2021,10,203013.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Maldandi),3225,238,8,2021,11,255850.0
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Maldandi),3225,214,30,2021,12,230050.0
+"Karnal, Haryana",29.6857,76.9905,Sugarcane,355,132,33,2022,1,15620.0
+"Karnal, Haryana",29.6857,76.9905,Arhar (Tur),7000,269,38,2022,2,627666.67
+"Jhajjar, Haryana",28.6061,76.6565,Urad,6950,32,24,2022,3,74133.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Groundnut,6377,25,18,2022,4,53141.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Urad,6950,27,7,2022,5,62550.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Long Staple),7020,16,39,2022,6,37440.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Long Staple),7020,58,10,2022,7,135720.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Moong,8558,30,40,2022,8,85580.0
+"Jhajjar, Haryana",28.6061,76.6565,Mustard,5650,55,12,2022,9,103583.33
+"Gurugram, Haryana",28.4595,77.0266,Mustard,5650,16,33,2022,10,30133.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Jowar (Maldandi),3225,284,32,2022,11,305300.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Jowar (Maldandi),3225,294,25,2022,12,316050.0
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Common),2183,227,7,2023,1,165180.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Gram (Chana),5440,44,20,2023,2,79786.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Paddy (Common),2183,69,9,2023,3,50209.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,70,26,2023,4,126933.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,83,27,2023,5,150506.67
+"Gohana, Haryana",29.1366,76.6943,Groundnut,6377,67,21,2023,6,142419.67
+"Gurugram, Haryana",28.4595,77.0266,Urad,6950,22,29,2023,7,50966.67
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,45,32,2023,8,105000.0
+"Gohana, Haryana",29.1366,76.6943,Bajra,2500,45,28,2023,9,37500.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Jowar (Maldandi),3225,195,12,2023,10,209625.0
+"Rewari, Haryana",28.1972,76.6172,Moong,8558,84,27,2023,11,239624.0
+"Karnal, Haryana",29.6857,76.9905,Moong,8558,239,7,2023,12,681787.33
+"Jhajjar, Haryana",28.6061,76.6565,Safflower,5800,35,31,2024,1,67666.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Cotton (Long Staple),7020,90,2,2024,2,210600.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Moong,8558,42,16,2024,3,119812.0
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Long Staple),7020,65,29,2024,4,152100.0
+"Faridabad, Haryana",28.4112,77.3132,Bajra,2500,53,32,2024,5,44166.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Safflower,5800,256,1,2024,6,494933.33
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Sugarcane,355,74,15,2024,7,8756.67
+"Gohana, Haryana",29.1366,76.6943,Cotton (Medium Staple),6620,29,19,2024,8,63993.33
+"Gurugram, Haryana",28.4595,77.0266,Arhar (Tur),7000,35,21,2024,9,81666.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Maize,2090,251,9,2024,10,174863.33
+"Sonipat, Haryana",28.9288,77.091,Moong,8558,216,35,2024,11,616176.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Urad,6950,246,36,2024,12,569900.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Hybrid),3180,235,19,2021,1,249100.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Sugarcane,355,240,17,2021,2,28400.0
+"Panipat, Haryana",29.3909,76.9635,Arhar (Tur),7000,47,32,2021,3,109666.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Moong,8558,55,15,2021,4,156896.67
+"Gurugram, Haryana",28.4595,77.0266,Paddy (Common),2183,40,16,2021,5,29106.67
+"Sonipat, Haryana",28.9288,77.091,Jowar (Maldandi),3225,32,29,2021,6,34400.0
+"Jhajjar, Haryana",28.6061,76.6565,Bajra,2500,67,30,2021,7,55833.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Sugarcane,355,42,0,2021,8,4970.0
+"Gurugram, Haryana",28.4595,77.0266,Maize,2090,59,22,2021,9,41103.33
+"Panipat, Haryana",29.3909,76.9635,Jowar (Hybrid),3180,95,14,2021,10,100700.0
+"Gurugram, Haryana",28.4595,77.0266,Urad,6950,300,15,2021,11,695000.0
+"Hapur, Uttar Pradesh",28.7306,77.7759,Maize,2090,226,25,2021,12,157446.67
+"Sonipat, Haryana",28.9288,77.091,Arhar (Tur),7000,208,36,2022,1,485333.33
+"Meerut, Uttar Pradesh",28.9845,77.7064,Safflower,5800,12,38,2022,2,23200.0
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,34,23,2022,3,72816.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Wheat,2275,242,33,2022,4,183516.67
+"Gurugram, Haryana",28.4595,77.0266,Moong,8558,37,1,2022,5,105548.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Urad,6950,67,8,2022,6,155216.67
+"Karnal, Haryana",29.6857,76.9905,Arhar (Tur),7000,73,2,2022,7,170333.33
+"Panipat, Haryana",29.3909,76.9635,Cotton (Medium Staple),6620,79,12,2022,8,174326.67
+"Gurugram, Haryana",28.4595,77.0266,Jowar (Maldandi),3225,43,40,2022,9,46225.0
+"Jhajjar, Haryana",28.6061,76.6565,Wheat,2275,39,24,2022,10,29575.0
+"Bahadurgarh, Haryana",28.6922,76.9354,Cotton (Medium Staple),6620,166,22,2022,11,366306.67
+"Gurugram, Haryana",28.4595,77.0266,Cotton (Long Staple),7020,254,31,2022,12,594360.0
+"Panipat, Haryana",29.3909,76.9635,Mustard,5650,15,21,2023,1,28250.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Wheat,2275,23,5,2023,2,17441.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Safflower,5800,60,30,2023,3,116000.0
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,63,28,2023,4,147000.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Barley,1850,203,33,2023,5,125183.33
+"Gurugram, Haryana",28.4595,77.0266,Groundnut,6377,55,35,2023,6,116911.67
+"Rewari, Haryana",28.1972,76.6172,Arhar (Tur),7000,59,9,2023,7,137666.67
+"Panipat, Haryana",29.3909,76.9635,Paddy (Grade A),2203,62,31,2023,8,45528.67
+"Sonipat, Haryana",28.9288,77.091,Paddy (Grade A),2203,23,27,2023,9,16889.67
+"Rohtak, Haryana",28.8955,76.6066,Sugarcane,355,240,24,2023,10,28400.0
+"Panipat, Haryana",29.3909,76.9635,Jowar (Maldandi),3225,151,37,2023,11,162325.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Cotton (Long Staple),7020,189,29,2023,12,442260.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Maldandi),3225,295,12,2024,1,317125.0
+"Panipat, Haryana",29.3909,76.9635,Barley,1850,63,0,2024,2,38850.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Barley,1850,64,40,2024,3,39466.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Urad,6950,68,0,2024,4,157533.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Wheat,2275,216,3,2024,5,163800.0
+"Palwal, Haryana",28.1487,77.332,Paddy (Common),2183,79,26,2024,6,57485.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Wheat,2275,73,8,2024,7,55358.33
+"Palwal, Haryana",28.1487,77.332,Barley,1850,239,18,2024,8,147383.33
+"Rewari, Haryana",28.1972,76.6172,Paddy (Grade A),2203,65,37,2024,9,47731.67
+"Karnal, Haryana",29.6857,76.9905,Gram (Chana),5440,64,2,2024,10,116053.33
+"Jhajjar, Haryana",28.6061,76.6565,Jowar (Hybrid),3180,201,2,2024,11,213060.0
+"Sonipat, Haryana",28.9288,77.091,Sugarcane,355,245,10,2024,12,28991.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Gram (Chana),5440,18,18,2021,1,32640.0
+"Faridabad, Haryana",28.4112,77.3132,Sugarcane,355,208,12,2021,2,24613.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Maize,2090,14,14,2021,3,9753.33
+"Panipat, Haryana",29.3909,76.9635,Jowar (Maldandi),3225,52,18,2021,4,55900.0
+"Sonipat, Haryana",28.9288,77.091,Barley,1850,206,0,2021,5,127033.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Wheat,2275,199,25,2021,6,150908.33
+"Gurugram, Haryana",28.4595,77.0266,Paddy (Common),2183,67,12,2021,7,48753.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Mustard,5650,172,1,2021,8,323933.33
+"Gohana, Haryana",29.1366,76.6943,Cotton (Medium Staple),6620,64,19,2021,9,141226.67
+"Gohana, Haryana",29.1366,76.6943,Wheat,2275,64,40,2021,10,48533.33
+"Gurugram, Haryana",28.4595,77.0266,Wheat,2275,29,39,2021,11,21991.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Gram (Chana),5440,10,24,2021,12,18133.33
+"Panipat, Haryana",29.3909,76.9635,Wheat,2275,38,5,2022,1,28816.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Groundnut,6377,148,0,2022,2,314598.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Paddy (Common),2183,43,18,2022,3,31289.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Barley,1850,210,11,2022,4,129500.0
+"Palwal, Haryana",28.1487,77.332,Arhar (Tur),7000,62,21,2022,5,144666.67
+"Baraut, Uttar Pradesh",29.1011,77.2622,Bajra,2500,59,13,2022,6,49166.67
+"Faridabad, Haryana",28.4112,77.3132,Cotton (Long Staple),7020,44,15,2022,7,102960.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Wheat,2275,146,29,2022,8,110716.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Jowar (Hybrid),3180,75,34,2022,9,79500.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Gram (Chana),5440,55,18,2022,10,99733.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Safflower,5800,56,33,2022,11,108266.67
+"Panipat, Haryana",29.3909,76.9635,Urad,6950,76,17,2022,12,176066.67
+"Sonipat, Haryana",28.9288,77.091,Moong,8558,100,19,2023,1,285266.67
+"Gohana, Haryana",29.1366,76.6943,Barley,1850,11,35,2023,2,6783.33
+"Gohana, Haryana",29.1366,76.6943,Gram (Chana),5440,58,38,2023,3,105173.33
+"Palwal, Haryana",28.1487,77.332,Urad,6950,52,12,2023,4,120466.67
+"Rohtak, Haryana",28.8955,76.6066,Jowar (Maldandi),3225,66,12,2023,5,70950.0
+"Gurugram, Haryana",28.4595,77.0266,Sugarcane,355,80,6,2023,6,9466.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Moong,8558,44,6,2023,7,125517.33
+"Gurugram, Haryana",28.4595,77.0266,Safflower,5800,274,31,2023,8,529733.33
+"Rohtak, Haryana",28.8955,76.6066,Gram (Chana),5440,43,29,2023,9,77973.33
+"Rewari, Haryana",28.1972,76.6172,Barley,1850,43,35,2023,10,26516.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Sugarcane,355,346,12,2023,11,40943.33
+"Karnal, Haryana",29.6857,76.9905,Groundnut,6377,220,10,2023,12,467646.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Paddy (Grade A),2203,89,17,2024,1,65355.67
+"Karnal, Haryana",29.6857,76.9905,Barley,1850,42,10,2024,2,25900.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Paddy (Grade A),2203,53,11,2024,3,38919.67
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Sugarcane,355,20,5,2024,4,2366.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Paddy (Common),2183,41,27,2024,5,29834.33
+"Rohtak, Haryana",28.8955,76.6066,Bajra,2500,39,15,2024,6,32500.0
+"Rewari, Haryana",28.1972,76.6172,Jowar (Maldandi),3225,22,36,2024,7,23650.0
+"Gohana, Haryana",29.1366,76.6943,Jowar (Hybrid),3180,79,35,2024,8,83740.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Maize,2090,73,10,2024,9,50856.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Jowar (Maldandi),3225,164,37,2024,10,176300.0
+"Baraut, Uttar Pradesh",29.1011,77.2622,Urad,6950,91,15,2024,11,210816.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Paddy (Grade A),2203,96,12,2024,12,70496.0
+"Panipat, Haryana",29.3909,76.9635,Gram (Chana),5440,14,30,2021,1,25386.67
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Medium Staple),6620,151,29,2021,2,333206.67
+"Faridabad, Haryana",28.4112,77.3132,Mustard,5650,34,14,2021,3,64033.33
+"Sonipat, Haryana",28.9288,77.091,Barley,1850,231,31,2021,4,142450.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Gram (Chana),5440,215,7,2021,5,389866.67
+"Jhajjar, Haryana",28.6061,76.6565,Wheat,2275,126,13,2021,6,95550.0
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Paddy (Grade A),2203,14,30,2021,7,10280.67
+"Gurugram, Haryana",28.4595,77.0266,Maize,2090,24,31,2021,8,16720.0
+"Gurugram, Haryana",28.4595,77.0266,Wheat,2275,30,32,2021,9,22750.0
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Cotton (Medium Staple),6620,247,6,2021,10,545046.67
+"Faridabad, Haryana",28.4112,77.3132,Lentil (Masur),6425,17,36,2021,11,36408.33
+"Rohtak, Haryana",28.8955,76.6066,Urad,6950,234,8,2021,12,542100.0
+"Rohtak, Haryana",28.8955,76.6066,Groundnut,6377,128,37,2022,1,272085.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Paddy (Common),2183,279,37,2022,2,203019.0
+"Aligarh, Uttar Pradesh",27.8974,78.088,Bajra,2500,25,37,2022,3,20833.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Cotton (Medium Staple),6620,56,39,2022,4,123573.33
+"Aligarh, Uttar Pradesh",27.8974,78.088,Moong,8558,67,33,2022,5,191128.67
+"Sikandrabad, Uttar Pradesh",28.4483,77.6981,Urad,6950,53,40,2022,6,122783.33
+"Faridabad, Haryana",28.4112,77.3132,Safflower,5800,135,39,2022,7,261000.0
+"Faridabad, Haryana",28.4112,77.3132,Barley,1850,91,25,2022,8,56116.67
+"Meerut, Uttar Pradesh",28.9845,77.7064,Maize,2090,65,36,2022,9,45283.33
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Bajra,2500,112,24,2022,10,93333.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Mustard,5650,40,34,2022,11,75333.33
+"Gohana, Haryana",29.1366,76.6943,Urad,6950,299,29,2022,12,692683.33
+"Bulandshahr, Uttar Pradesh",28.4069,77.8498,Maize,2090,231,18,2023,1,160930.0
+"Rohtak, Haryana",28.8955,76.6066,Cotton (Medium Staple),6620,80,35,2023,2,176533.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Groundnut,6377,65,30,2023,3,138168.33
+"Faridabad, Haryana",28.4112,77.3132,Paddy (Common),2183,74,23,2023,4,53847.33
+"Baraut, Uttar Pradesh",29.1011,77.2622,Groundnut,6377,23,4,2023,5,48890.33
+"Panipat, Haryana",29.3909,76.9635,Mustard,5650,123,14,2023,6,231650.0
+"Karnal, Haryana",29.6857,76.9905,Barley,1850,169,28,2023,7,104216.67
+"Aligarh, Uttar Pradesh",27.8974,78.088,Sugarcane,355,69,35,2023,8,8165.0
+"Panipat, Haryana",29.3909,76.9635,Mustard,5650,11,2,2023,9,20716.67
+"Bahadurgarh, Haryana",28.6922,76.9354,Maize,2090,289,34,2023,10,201336.67
+"Baghpat, Uttar Pradesh",28.9448,77.2184,Sugarcane,355,299,10,2023,11,35381.67
+"Sonipat, Haryana",28.9288,77.091,Cotton (Long Staple),7020,193,7,2023,12,451620.0
+"Jhajjar, Haryana",28.6061,76.6565,Arhar (Tur),7000,276,36,2024,1,644000.0
+"Jhajjar, Haryana",28.6061,76.6565,Paddy (Common),2183,288,35,2024,2,209568.0
+"Meerut, Uttar Pradesh",28.9845,77.7064,Barley,1850,56,21,2024,3,34533.33
+"Hapur, Uttar Pradesh",28.7306,77.7759,Bajra,2500,47,8,2024,4,39166.67

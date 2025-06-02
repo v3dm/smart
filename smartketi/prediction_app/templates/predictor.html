@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waste Crop Price Predictor</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(90deg, #2e7d32 0%, #388e3c 100%);
+            color: white;
+            padding: 25px 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+        
+        .header p {
+            opacity: 0.9;
+            font-size: 16px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .form-container {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 30px;
+            border: 1px solid #eaeaea;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2d3748;
+            font-size: 15px;
+        }
+        
+        .form-control {
+            width: 100%;
+            padding: 14px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+            background: white;
+        }
+        
+        .form-control:focus {
+            outline: none;
+            border-color: #4CAF50;
+            box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.2);
+        }
+        
+        .btn {
+            background: linear-gradient(90deg, #2e7d32 0%, #388e3c 100%);
+            color: white;
+            border: none;
+            padding: 16px;
+            border-radius: 8px;
+            font-size: 17px;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
+        }
+        
+        .btn:active {
+            transform: translateY(0);
+        }
+        
+        .result-container {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 25px;
+            border: 1px solid #eaeaea;
+            display: none;
+        }
+        
+        .result-header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #eaeaea;
+            color: #2e7d32;
+        }
+        
+        .result-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .result-item:last-child {
+            border-bottom: none;
+        }
+        
+        .result-label {
+            font-weight: 500;
+            color: #4a5568;
+        }
+        
+        .result-value {
+            font-weight: 600;
+            color: #2d3748;
+        }
+        
+        .price-value {
+            color: #2e7d32;
+            font-weight: 700;
+        }
+        
+        .total-value {
+            font-size: 18px;
+            color: #1b5e20;
+            font-weight: 700;
+        }
+        
+        .disclaimer {
+            margin-top: 25px;
+            padding: 15px;
+            background: #e8f5e9;
+            border-radius: 8px;
+            border-left: 4px solid #388e3c;
+            font-size: 14px;
+            color: #2d3748;
+        }
+        
+        .note {
+            color: #718096;
+            font-size: 14px;
+            margin-top: 5px;
+            font-style: italic;
+        }
+        
+        .valorization-card {
+            margin-top: 25px;
+            padding: 20px;
+            background: #e8f5e9;
+            border-radius: 10px;
+            border-left: 4px solid #388e3c;
+        }
+        
+        .valorization-title {
+            font-weight: 600;
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+        
+        .valorization-content {
+            color: #2d3748;
+            line-height: 1.6;
+        }
+        
+        .co2-value {
+            color: #d32f2f;
+            font-weight: 700;
+        }
+        
+        @media (max-width: 600px) {
+            .header {
+                padding: 20px;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .form-container, .result-container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Agricultural Waste Price Predictor</h1>
+            <p>Predict the market value and environmental impact of crop waste</p>
+        </div>
+        
+        <div class="content">
+            <div class="form-container">
+                <form id="prediction-form">
+                    <div class="form-group">
+                        <label for="crop">Select Crop Type</label>
+                        <select id="crop" name="crop" class="form-control" required>
+                            {% for crop in crops %}
+                                <option value="{{ crop }}">{{ crop }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="quantity">Quantity of Waste Crop (Quintal)</label>
+                        <input type="number" id="quantity" name="quantity" class="form-control" 
+                               min="1" step="0.1" placeholder="Enter quantity in quintals" required>
+                        <div class="note">1 quintal = 100 kg</div>
+                    </div>
+                    
+                    <div class="form-row" style="display: flex; gap: 15px; margin-bottom: 20px;">
+                        <div class="form-group" style="flex: 1;">
+                            <label for="month">Month</label>
+                            <select id="month" name="month" class="form-control" required>
+                                <option value="">Select Month</option>
+                                <option value="1">January</option>
+                                <option value="2">February</option>
+                                <option value="3">March</option>
+                                <option value="4">April</option>
+                                <option value="5">May</option>
+                                <option value="6">June</option>
+                                <option value="7">July</option>
+                                <option value="8">August</option>
+                                <option value="9">September</option>
+                                <option value="10">October</option>
+                                <option value="11">November</option>
+                                <option value="12">December</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group" style="flex: 1;">
+                            <label for="year">Year</label>
+                            <input type="number" id="year" name="year" class="form-control" 
+                                   min="2023" max="2030" placeholder="Enter year" required>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="btn">Calculate Waste Value</button>
+                </form>
+            </div>
+            
+            <div class="result-container" id="result">
+                <h2 class="result-header">Prediction Results</h2>
+                
+                <div class="result-item">
+                    <span class="result-label">Crop Type:</span>
+                    <span class="result-value" id="result-crop"></span>
+                </div>
+                
+                <div class="result-item">
+                    <span class="result-label">Sale Period:</span>
+                    <span class="result-value" id="result-date"></span>
+                </div>
+                
+                <div class="result-item">
+                    <span class="result-label">Waste Quantity:</span>
+                    <span class="result-value" id="result-quantity"></span>
+                </div>
+                
+                <div class="result-item">
+                    <span class="result-label">Regular Price (per quintal):</span>
+                    <span class="result-value">
+                        ₹<span class="price-value" id="result-regular-price"></span>
+                    </span>
+                </div>
+                
+                <div class="result-item">
+                    <span class="result-label">Waste Price (per quintal):</span>
+                    <span class="result-value">
+                        ₹<span class="price-value" id="result-waste-price"></span>
+                    </span>
+                </div>
+                
+                <div class="result-item" style="margin-top: 20px; padding-top: 15px; border-top: 2px solid #eaeaea;">
+                    <span class="result-label" style="font-size: 17px;">Total Expected Value:</span>
+                    <span class="result-value">
+                        ₹<span class="total-value" id="result-total"></span>
+                    </span>
+                </div>
+
+                <div class="result-item">
+                    <span class="result-label">CO₂ Emissions Saved:</span>
+                    <span class="result-value">
+                        <span class="co2-value" id="result-co2"></span> kg
+                    </span>
+                </div>
+                
+                <div class="valorization-card">
+                    <div class="valorization-title">Valorization Potential</div>
+                    <div class="valorization-content" id="result-valorization"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('prediction-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            // Show loading state
+            const submitBtn = document.querySelector('.btn');
+            const originalText = submitBtn.textContent;
+            submitBtn.textContent = 'Calculating...';
+            submitBtn.disabled = true;
+            
+            try {
+                const formData = new FormData(e.target);
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    // Update results display
+                    document.getElementById('result-crop').textContent = result.crop;
+                    document.getElementById('result-date').textContent = `${getMonthName(result.month)} ${result.year}`;
+                    document.getElementById('result-quantity').textContent = `${result.quantity} quintals`;
+                    document.getElementById('result-regular-price').textContent = result.regular_price_per_quintal.toLocaleString('en-IN', {maximumFractionDigits: 2});
+                    document.getElementById('result-waste-price').textContent = result.waste_price_per_quintal.toLocaleString('en-IN', {maximumFractionDigits: 2});
+                    document.getElementById('result-total').textContent = result.total_value.toLocaleString('en-IN', {maximumFractionDigits: 2});
+                    document.getElementById('result-valorization').textContent = result.valorization;
+                    
+                    // Update CO2 emissions
+                    document.getElementById('result-co2').textContent = 
+                        result.co2_emissions.toLocaleString('en-IN', {maximumFractionDigits: 2});
+                    
+                    // Show result section
+                    document.getElementById('result').style.display = 'block';
+                    
+                    // Scroll to results
+                    document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
+                } else {
+                    alert(`Error: ${result.error}`);
+                }
+            } catch (error) {
+                alert('An unexpected error occurred. Please try again.');
+                console.error(error);
+            } finally {
+                // Reset button
+                submitBtn.textContent = originalText;
+                submitBtn.disabled = false;
+            }
+        });
+        
+        // Helper function to get month name
+        function getMonthName(monthNumber) {
+            const months = [
+                'January', 'February', 'March', 'April', 'May', 'June',
+                'July', 'August', 'September', 'October', 'November', 'December'
+            ];
+            return months[monthNumber - 1] || '';
+        }
+        
+        // Set current year as default
+        document.getElementById('year').value = new Date().getFullYear();
+        
+        // Set current month as default
+        const currentMonth = new Date().getMonth() + 1;
+        document.getElementById('month').value = currentMonth;
+    </script>
+</body>
+</html>
